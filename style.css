@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f8fb;
+    color: #333;
+  }
+  
+  header {
+    background: #007BFF;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .hero {
+    background: url('https://i.imgur.com/3qKOYoB.jpg') no-repeat center center/cover;
+    padding: 100px 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero h2 {
+    font-size: 2.5em;
+  }
+  
+  .btn {
+    background: #ffc107;
+    padding: 12px 24px;
+    border: none;
+    color: #333;
+    font-weight: bold;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+    display: inline-block;
+  }
+  
+  .services, .contact {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.2em;
+  }
+  
+  .services li {
+    margin: 10px 0;
+  }
+  
+  footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+  }
